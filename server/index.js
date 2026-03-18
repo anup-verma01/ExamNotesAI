@@ -22,12 +22,11 @@ app.post(
   stripeWebhook
 );
 
-app.use(cors(
-    {origin:"https://examnotesai-1-sjel.onrender.com3",
-        credentials:true,
-        methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"]
-    }
-))
+app.use(cors({
+  origin: "https://examnotesai-1-sjel.onrender.com",
+  credentials: true,
+  methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"]
+}));
 
 
 
