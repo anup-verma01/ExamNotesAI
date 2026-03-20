@@ -3,16 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>InterviewIQ.AI</title>
+  <title>ExamNotesAI</title>
 </head>
 <body>
 
-<h1>🚀 InterviewIQ.AI</h1>
+<h1>📚 ExamNotesAI</h1>
 
-<p><b>AI Powered Smart Interview Platform</b><br>
-Practice interviews with AI intelligence, adaptive questioning, and real-time performance evaluation.</p>
+<p><b>AI Powered Smart Notes Generator</b><br>
+Generate structured, exam-ready notes instantly using AI and boost your productivity.</p>
 
-<!-- 🔥 LIVE DEMO ADDED HERE -->
+<!-- 🔥 LIVE DEMO -->
 <hr>
 
 <h2>🌐 Live Demo</h2>
@@ -33,8 +33,15 @@ Practice interviews with AI intelligence, adaptive questioning, and real-time pe
   </a>
 </p>
 
+<hr>
+
+<h2>🚀 Live Demo</h2>
+<p>Experience ExamNotesAI in action — generate AI-powered notes instantly.</p>
+
+<hr>
+
 <p>
-✅ Authentication   •   🤖 AI Interviews   •   📊 Dashboard   •   💳 Payments
+🔐 Authentication   •   🤖 AI Notes   •   📄 Smart Output   •   ⚡ Fast Generation
 </p>
 
 <hr>
@@ -42,17 +49,18 @@ Practice interviews with AI intelligence, adaptive questioning, and real-time pe
 <h2>📸 Project Preview</h2>
 
 <p align="center">
-  <img src="C:\Users\ANUP\Downloads\interview.png" alt="InterviewIQ Preview" width="90%">
+  <img src="./assets/preview.png" alt="ExamNotesAI Preview" width="90%">
 </p>
 
-<p><b>Practice Interviews with AI Intelligence</b></p>
+<p><b>Generate Notes with AI Intelligence</b></p>
 
 <hr>
 
 <h2>📌 Overview</h2>
 
 <p>
-InterviewIQ.AI is an AI-driven mock interview platform that simulates real interview environments. It provides role-based interviews, dynamic follow-up questions, and performance analytics to help users improve their skills.
+ExamNotesAI is an AI-powered platform that helps students generate high-quality, structured notes instantly from any topic or question. 
+It simplifies complex concepts into easy-to-understand content, making exam preparation faster and more efficient.
 </p>
 
 <hr>
@@ -60,14 +68,12 @@ InterviewIQ.AI is an AI-driven mock interview platform that simulates real inter
 <h2>✨ Features</h2>
 
 <p>
-🤖 AI-Powered Interview System<br>
-🎯 Role-based customization<br>
-🧠 Smart follow-up questions<br>
-⏱️ Timer-based simulation<br>
-📊 Performance analytics<br>
-📄 PDF reports<br>
-🎤 Voice-based interviews<br>
-💳 Premium sessions
+🤖 AI-Powered Notes Generation<br>
+📚 Topic-based input system<br>
+⚡ Real-time note creation<br>
+📄 Structured & clean output<br>
+🔐 User authentication<br>
+☁️ Cloud-based access
 </p>
 
 <hr>
@@ -75,14 +81,14 @@ InterviewIQ.AI is an AI-driven mock interview platform that simulates real inter
 <h2>🧩 How It Works</h2>
 
 <p>
-1. Role Selection<br>
-Select job role and experience level.<br><br>
+1. Enter Topic<br>
+Provide any subject or question.<br><br>
 
-2. AI Interview<br>
-AI generates dynamic questions and follow-ups.<br><br>
+2. AI Processing<br>
+AI analyzes and generates structured notes.<br><br>
 
-3. Real Simulation<br>
-Timer-based interview experience.
+3. Get Notes<br>
+Instant, readable, exam-ready content.
 </p>
 
 <hr>
@@ -90,10 +96,10 @@ Timer-based interview experience.
 <h2>🧠 AI Capabilities</h2>
 
 <p>
-Answer Evaluation: Communication & accuracy scoring<br>
-Resume-based Questions<br>
-Confidence Detection<br>
-Analytics Tracking
+Smart Content Generation<br>
+Concept Simplification<br>
+Structured Formatting<br>
+Fast Response Generation
 </p>
 
 <hr>
@@ -105,8 +111,7 @@ Frontend: React (Vite)<br>
 Backend: Node.js, Express<br>
 Database: MongoDB<br>
 Auth: JWT + Cookies<br>
-AI: OpenAI APIs<br>
-Payments: Razorpay / Cashfree
+AI: Gemini API / OpenAI API
 </p>
 
 <hr>
@@ -120,14 +125,11 @@ A[👤 User Browser]
 A --> B[⚛️ Frontend (React + Vite)]
 B -->|REST API| C[🟢 Backend (Node.js + Express)]
 C --> D[🔐 Auth Service (JWT + Cookies)]
-C --> E[🧠 Interview Engine]
-C --> F[💳 Payment Service]
-E --> G[🤖 OpenAI API]
-F --> H[🏦 Payment Gateway (Razorpay / Cashfree)]
+C --> E[🧠 Notes Generator Engine]
+E --> G[🤖 AI API]
 C --> I[(🗄️ MongoDB)]
 I -->|User Data| C
-I -->|Interview Data| C
-I -->|Payment Data| C
+I -->|Notes Data| C
 C -->|JSON Response| B
 B -->|Rendered UI| A
 </pre>
@@ -137,7 +139,7 @@ B -->|Rendered UI| A
 <h2>📂 Project Structure</h2>
 
 <pre>
-InterviewIQ/
+ExamNotesAI/
 │
 ├── client/                  
 │   ├── src/
@@ -160,8 +162,8 @@ InterviewIQ/
 <h2>⚙️ Installation</h2>
 
 <pre>
-git clone https://github.com/anup-verma01/InterviewIQ.AI
-cd interviewiq-ai
+git clone https://github.com/anup-verma01/ExamNotesAI
+cd examnotesai
 </pre>
 
 <p><b>Client</b></p>
@@ -182,8 +184,7 @@ npm run dev
 <pre>
 MONGO_URI=
 JWT_SECRET=
-OPENAI_API_KEY=
-RAZORPAY_KEY=
+AI_API_KEY=
 </pre>
 
 <hr>
@@ -191,9 +192,10 @@ RAZORPAY_KEY=
 <h2>🚀 Future Improvements</h2>
 
 <p>
-📹 Video interviews<br>
+📥 Download notes as PDF<br>
+🗣️ Voice input support<br>
 🌐 Multi-language<br>
-📱 Mobile app
+📊 Personalized analytics
 </p>
 
 <hr>
