@@ -49,7 +49,7 @@ Generate structured, exam-ready notes instantly using AI and boost your producti
 <h2>📸 Project Preview</h2>
 
 <p align="center">
-  <img src="./assets/preview.png" alt="ExamNotesAI Preview" width="90%">
+  <img src="assests/examai.png" alt="ExamNotesAI Preview" width="90%">
 </p>
 
 <p><b>Generate Notes with AI Intelligence</b></p>
