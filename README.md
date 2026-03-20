@@ -3,103 +3,213 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ExamNotesAI</title>
+  <title>InterviewIQ.AI</title>
 </head>
 <body>
 
-  <h1>📚 ExamNotesAI</h1>
-  <p><strong>AI Powered Smart Notes Generator for Students</strong></p>
+<h1>🚀 InterviewIQ.AI</h1>
 
-  <p>
-    ExamNotesAI is an intelligent platform that helps students generate 
-    high-quality notes instantly using AI. It simplifies study material, 
-    improves understanding, and saves time during exam preparation.
-  </p>
+<p><b>AI Powered Smart Interview Platform</b><br>
+Practice interviews with AI intelligence, adaptive questioning, and real-time performance evaluation.</p>
 
-  <!-- 🔥 LIVE DEMO ADDED HERE -->
-  <hr>
+<!-- 🔥 LIVE DEMO ADDED HERE -->
+<hr>
 
-  <h2>🌐 Live Demo</h2>
+<h2>🌐 Live Demo</h2>
 
-  <p align="center">
-    <a href="https://examnotesai-1-sjel.onrender.com" target="_blank">
-      <img src="https://img.shields.io/badge/🚀%20Launch%20ExamNotesAI-Live%20Demo-blue?style=for-the-badge" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://examnotesai-1-sjel.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Launch%20ExamNotesAI-Live%20Demo-blue?style=for-the-badge" />
+  </a>
+</p>
 
-  <p align="center">
-    👉 <b>Try the app live and generate AI-powered notes instantly.</b>
-  </p>
+<p align="center">
+  👉 <b>Try the app live and generate AI-powered notes instantly.</b>
+</p>
 
-  <p align="center">
-    🔗 <a href="https://examnotesai-1-sjel.onrender.com" target="_blank">
-      https://examnotesai-1-sjel.onrender.com
-    </a>
-  </p>
+<p align="center">
+  🔗 <a href="https://examnotesai-1-sjel.onrender.com" target="_blank">
+    https://examnotesai-1-sjel.onrender.com
+  </a>
+</p>
 
-  <hr>
+<p>
+✅ Authentication   •   🤖 AI Interviews   •   📊 Dashboard   •   💳 Payments
+</p>
 
-  <h2>✨ Features</h2>
+<hr>
 
-  <ul>
-    <li>🧠 AI-generated notes from input topics</li>
-    <li>⚡ Fast and real-time note generation</li>
-    <li>📄 Clean and structured content output</li>
-    <li>📚 Useful for exams and quick revision</li>
-    <li>🔐 User authentication system</li>
-    <li>☁️ Cloud-based access (anywhere, anytime)</li>
-  </ul>
+<h2>📸 Project Preview</h2>
 
-  <hr>
+<p align="center">
+  <img src="C:\Users\ANUP\Downloads\interview.png" alt="InterviewIQ Preview" width="90%">
+</p>
 
-  <h2>🛠️ Tech Stack</h2>
+<p><b>Practice Interviews with AI Intelligence</b></p>
 
-  <ul>
-    <li><b>Frontend:</b> React.js, HTML, CSS</li>
-    <li><b>Backend:</b> Node.js, Express.js</li>
-    <li><b>Database:</b> MongoDB</li>
-    <li><b>AI Integration:</b> Gemini API / OpenAI API</li>
-  </ul>
+<hr>
 
-  <hr>
+<h2>📌 Overview</h2>
 
-  <h2>⚙️ How It Works</h2>
+<p>
+InterviewIQ.AI is an AI-driven mock interview platform that simulates real interview environments. It provides role-based interviews, dynamic follow-up questions, and performance analytics to help users improve their skills.
+</p>
 
-  <ol>
-    <li>Enter a topic or question</li>
-    <li>AI processes the input</li>
-    <li>Structured notes are generated instantly</li>
-    <li>Read, revise, and prepare for exams</li>
-  </ol>
+<hr>
 
-  <hr>
+<h2>✨ Features</h2>
 
-  <h2>📌 Use Cases</h2>
+<p>
+🤖 AI-Powered Interview System<br>
+🎯 Role-based customization<br>
+🧠 Smart follow-up questions<br>
+⏱️ Timer-based simulation<br>
+📊 Performance analytics<br>
+📄 PDF reports<br>
+🎤 Voice-based interviews<br>
+💳 Premium sessions
+</p>
 
-  <ul>
-    <li>🎓 Students preparing for exams</li>
-    <li>📖 Quick revision before tests</li>
-    <li>📝 Creating notes for assignments</li>
-    <li>📊 Understanding complex topics easily</li>
-  </ul>
+<hr>
 
-  <hr>
+<h2>🧩 How It Works</h2>
 
-  <h2>🚀 Future Improvements</h2>
+<p>
+1. Role Selection<br>
+Select job role and experience level.<br><br>
 
-  <ul>
-    <li>📥 Download notes as PDF</li>
-    <li>🗣️ Voice input support</li>
-    <li>📊 Personalized learning analytics</li>
-    <li>🌍 Multi-language support</li>
-  </ul>
+2. AI Interview<br>
+AI generates dynamic questions and follow-ups.<br><br>
 
-  <hr>
+3. Real Simulation<br>
+Timer-based interview experience.
+</p>
 
-  <h2>📞 Contact</h2>
-  <p>For collaboration or queries, feel free to reach out.</p>
+<hr>
 
-  <p>⭐ If you like this project, don’t forget to star the repository!</p>
+<h2>🧠 AI Capabilities</h2>
+
+<p>
+Answer Evaluation: Communication & accuracy scoring<br>
+Resume-based Questions<br>
+Confidence Detection<br>
+Analytics Tracking
+</p>
+
+<hr>
+
+<h2>🛠️ Tech Stack</h2>
+
+<p>
+Frontend: React (Vite)<br>
+Backend: Node.js, Express<br>
+Database: MongoDB<br>
+Auth: JWT + Cookies<br>
+AI: OpenAI APIs<br>
+Payments: Razorpay / Cashfree
+</p>
+
+<hr>
+
+<h2>🔁 Architecture</h2>
+
+<pre>
+flowchart LR
+
+A[👤 User Browser]
+A --> B[⚛️ Frontend (React + Vite)]
+B -->|REST API| C[🟢 Backend (Node.js + Express)]
+C --> D[🔐 Auth Service (JWT + Cookies)]
+C --> E[🧠 Interview Engine]
+C --> F[💳 Payment Service]
+E --> G[🤖 OpenAI API]
+F --> H[🏦 Payment Gateway (Razorpay / Cashfree)]
+C --> I[(🗄️ MongoDB)]
+I -->|User Data| C
+I -->|Interview Data| C
+I -->|Payment Data| C
+C -->|JSON Response| B
+B -->|Rendered UI| A
+</pre>
+
+<hr>
+
+<h2>📂 Project Structure</h2>
+
+<pre>
+InterviewIQ/
+│
+├── client/                  
+│   ├── src/
+│   ├── public/
+│   └── ...
+│
+├── server/                  
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── services/
+│   └── ...
+│
+└── README.md
+</pre>
+
+<hr>
+
+<h2>⚙️ Installation</h2>
+
+<pre>
+git clone https://github.com/anup-verma01/InterviewIQ.AI
+cd interviewiq-ai
+</pre>
+
+<p><b>Client</b></p>
+<pre>
+cd client
+npm install
+npm run dev
+</pre>
+
+<p><b>Server</b></p>
+<pre>
+cd server
+npm install
+npm run dev
+</pre>
+
+<p><b>Environment Variables</b></p>
+<pre>
+MONGO_URI=
+JWT_SECRET=
+OPENAI_API_KEY=
+RAZORPAY_KEY=
+</pre>
+
+<hr>
+
+<h2>🚀 Future Improvements</h2>
+
+<p>
+📹 Video interviews<br>
+🌐 Multi-language<br>
+📱 Mobile app
+</p>
+
+<hr>
+
+<h2>🤝 Contributing</h2>
+<p>Fork and create a pull request.</p>
+
+<hr>
+
+<h2>📜 License</h2>
+<p>MIT License</p>
+
+<hr>
+
+<p align="center"><b>💡 Built by Anup Kumar Verma</b></p>
+<p align="center">⭐ Star this repo if you like it!</p>
 
 </body>
 </html>
